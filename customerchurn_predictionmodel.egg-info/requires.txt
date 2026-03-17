@@ -1,0 +1,7 @@
+flaml[automl]>=2.5.0
+imblearn>=0.0
+ipykernel>=7.2.0
+numpy>=2.4.3
+pandas>=2.3.3
+scikit-learn>=1.8.0
+streamlit>=1.55.0

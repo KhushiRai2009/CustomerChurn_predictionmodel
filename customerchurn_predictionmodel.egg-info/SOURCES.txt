@@ -1,0 +1,9 @@
+LICENSE
+README.md
+main.py
+pyproject.toml
+customerchurn_predictionmodel.egg-info/PKG-INFO
+customerchurn_predictionmodel.egg-info/SOURCES.txt
+customerchurn_predictionmodel.egg-info/dependency_links.txt
+customerchurn_predictionmodel.egg-info/requires.txt
+customerchurn_predictionmodel.egg-info/top_level.txt
