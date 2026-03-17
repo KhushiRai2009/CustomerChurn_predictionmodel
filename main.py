@@ -1,6 +1,11 @@
+from src.data_ingestion import data_ingestion
+
+
 def main():
-    print("Hello from customerchurn-predictionmodel!")
+
+    # step 1: Data Ingestion
+    df=data_ingestion()
+    print(df.shape)
 
 
-if __name__ == "__main__":
-    main()
+main()
